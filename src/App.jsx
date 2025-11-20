@@ -1,6 +1,7 @@
 import React from 'react';
 import RecipeList from './components/RecipeList';
 import Footer from './components/Footer';
+import './App.css'
 
 
 // data that is rendered and passed as props starting at App and ending in RecipeCard
